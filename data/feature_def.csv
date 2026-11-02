@@ -1,0 +1,15 @@
+FeatureNo,Code,Description,Unit,PopMean,PopStd,Weight
+0,brain_w_mm,Brain width (L-R extent),mm,137.19473684210527,6.155354851818095,1.0
+1,brain_l_mm,Brain length (A-P extent),mm,171.69473684210527,8.34906068994783,1.0
+2,brain_h_mm,Brain height (S-I extent),mm,125.12105263157895,5.777094420606118,1.0
+3,brain_vol_ml,Intracranial brain volume,ml,1533.024705263158,136.10083645640898,1.0
+4,acpc_mm,AC-PC distance,mm,24.13884092105263,1.6729397488904296,1.0
+5,v3_width_mm,Third ventricle width at MCP,mm,2.882073552631579,1.141451460928497,1.0
+6,lv_vol_ml,Lateral ventricle volume,ml,28.26700644736842,2.788867027249976,1.0
+7,lv_span_mm,Frontal horn span,mm,26.589473684210525,6.007880328267297,1.0
+8,evans_index,Evans index (horn span / brain width),ratio,0.1941242105263158,0.04431381296067371,1.0
+9,v3_ratio,3rd ventricle width / brain width x100,%,2.105573157894737,0.8399248791381827,1.0
+10,lv_frac,Ventricle volume / brain volume x100,%,1.8488003947368419,0.15809506063508943,1.0
+11,acpc_ratio,AC-PC / brain length x100,%,14.061059999999998,0.7277631666928032,1.0
+12,v3_height_mm,Third ventricle height at MCP,mm,11.256059078947368,1.4546771066918465,1.0
+13,age,Age at scan,years,55.53947368421053,12.398897223324768,1.0

@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-image>=0.22
+plotly>=5.20
+streamlit>=1.40
+pyodbc>=5.0
