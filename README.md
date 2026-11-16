@@ -1,5 +1,7 @@
 # NeuroTarget
 
+> **Read the full story:** [Twenty Years Later, I Built the Headache Machine Again](https://sqlartist.github.io/posts/twenty-years-later-i-built-the-headache-machine-again/) on my blog (free), or on [Medium](https://medium.com/@trevor.dwyer/twenty-years-later-i-built-the-headache-machine-again-5ea82b33a2c3).
+
 A SQL Server 2025 system that suggests deep brain stimulation (DBS) electrode placement from anatomically similar previous patients and how their operations turned out. It covers cluster headache (posterior hypothalamus) and Parkinson's disease (subthalamic nucleus and globus pallidus internus), and has a Streamlit + Plotly front end.
 
 > **All data is simulated.** This is a research/teaching prototype for exploring the idea. It is not a medical device and must not be used for clinical decisions.
